@@ -12,7 +12,6 @@
 
             //Part 1
             Console.WriteLine($"hey {firstName.ToLower()}! i like the movie {favMovie.ToLower()}.");
-            Console.WriteLine();
 
             favMovie = favMovie.ToUpper();
             Console.WriteLine($"{favMovie} RULES!");
